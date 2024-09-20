@@ -11,3 +11,5 @@ CONAHCYT-Universidad Autónoma de San Luis Potosí
 
 Coordinación para la Innovación y Aplicación de la Ciencia y la Tecnología
 _________________________________________________________________________
+
+![screenshot](https://raw.githubusercontent.com/guevaracodina/countLettersNum/main/screenshot.PNG)
